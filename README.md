@@ -1,2 +1,3 @@
 # hello-world
-Aprendendo a utilizar o GitHub
+Aprendendo e treinando como utilizar o GitHub.
+Agora estou treinando como realizar alterações em Brach de trabalhos.
