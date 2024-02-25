@@ -7,3 +7,4 @@ Nova alteração na master após ter criado a NovaLuk
 
 Alteração NovaLuk - mais uma, mais outra
 # ---
+vamos tentar o fetch
