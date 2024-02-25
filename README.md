@@ -6,7 +6,8 @@ Agora estou treinando como realizar alterações em Brach de trabalhos.
 Alteração no local - Luciano
 
 Salvando no Git site
-##Voltando a trabalhar **nesse** repositório
+
+## Voltando a trabalhar **nesse** repositório
 ---
 {
 "Autor":"Luciano",
